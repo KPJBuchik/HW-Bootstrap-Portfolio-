@@ -1,0 +1,43 @@
+.jumbotron {max-width:960px;
+            margin:auto;
+            margin-top:20px;
+            text-align:justified;
+            margin-bottom:5%;
+        }
+#aboutme {color:teal;
+}
+h1 {color:teal;}
+#indexpic{overflow:auto;
+        float: left;
+        width: 200px;
+        height: auto;
+        margin-top: 10px;
+        margin-right: 25px;}
+.card {padding-top:20px;
+        position:fixed;
+        bottom:0;
+        width:100%;
+        text-align:center;
+        background-color:gray;
+        padding:1px;
+
+}
+p {margin-top:40px;
+}
+.navbar-brand {background-color:teal;
+                padding:3%;
+                margin-left:11.5%;
+                margin-bottom: -9px;
+                padding-right:20px
+        }
+
+.menubar {margin-left:50%;
+       }
+
+#my-nav-bar {border-bottom-style:solid;
+            border-color:gray;
+}
+
+body {background-color:black;}
+
+.form3 {padding:100px;}
