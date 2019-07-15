@@ -3,6 +3,7 @@
             margin-top:20px;
             text-align:justified;
             margin-bottom:5%;
+            background-color:white;
         }
 #aboutme {color:teal;
 }
@@ -33,11 +34,14 @@ p {margin-top:40px;
 
 .menubar {margin-left:50%;
        }
-
+img {margin-bottom:10px;}
 #my-nav-bar {border-bottom-style:solid;
             border-color:gray;
 }
 
-body {background-color:black;}
+body {background-image:url(fishnets-and-hearts.png);}
 
 .form3 {padding:100px;}
+
+.container {background-color:white;
+}
