@@ -27,13 +27,7 @@ h1 {color:teal;}
 }
 p {margin-top:40px;
 }
-.navbar-brand {background-color:teal;
-                padding:3%;
-                margin-left:11.5%;
-                margin-bottom: -9px;
-                padding-right:20px;
-                margin-top:-9px;
-                color:white;
+.navbar-brand {
         }              
 .navbar-light .navbar-brand {
                 color: white;}
@@ -67,3 +61,5 @@ h3 { position: absolute;
         border-bottom: 0}
 
 #hidden {display:none;}
+
+.fixed {position:fixed;}
