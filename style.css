@@ -8,12 +8,14 @@
 #aboutme {color:teal;
 }
 h1 {color:teal;}
+
 #indexpic{overflow:auto;
         float: left;
         width: 200px;
         height: auto;
         margin-top: 10px;
         margin-right: 25px;}
+
 .card {padding-top:20px;
         position:fixed;
         bottom:0;
@@ -29,7 +31,8 @@ p {margin-top:40px;
                 padding:3%;
                 margin-left:11.5%;
                 margin-bottom: -9px;
-                padding-right:20px
+                padding-right:20px;
+                
         }
 
 .menubar {margin-left:50%;
@@ -45,3 +48,5 @@ body {background-image:url(fishnets-and-hearts.png);}
 
 .container {background-color:white;
 }
+#masthead {position:static;}
+
